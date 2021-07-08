@@ -1,0 +1,37 @@
+#ifndef MODPACK_UNATHI
+#define MODPACK_UNATHI
+#include "_unathi.dm"
+#include "datum\autohiss.dm"
+#include "datum\culture.dm"
+#include "datum\language.dm"
+#include "datum\species.dm"
+#include "datum\subspecies.dm"
+#include "datum\species_bodytypes.dm"
+#include "datum\sprite_accessory.dm"
+#include "organs\organs_internal.dm"
+#endif
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "_unathi.dm"
+#include "datum\autohiss.dm"
+#include "datum\emotes.dm"
+#include "datum\culture.dm"
+#include "datum\religion.dm"
+#include "datum\location.dm"
+#include "datum\faction.dm"
+#include "datum\language.dm"
+#include "datum\species.dm"
+#include "datum\species_bodytypes.dm"
+#include "datum\sprite_accessory.dm"
+#include "clothing.dm"
+// #include "datum\subspecies.dm"
+#include "organs\organs_internal.dm"
+// END_INCLUDE
+
